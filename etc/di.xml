@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright (c) 2024 - Kevin casasbuenas (https://kincasasbuenas.dev/)
+ * @author      Kevin Casasbuenas <kincasasbuenas@outlook.com>
+ * @category    Kinuz
+ * @module      Kinuz/Kinuz/ProductBadgePercentage
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magento\Catalog\Pricing\Render\FinalPriceBox" type="Kinuz\ProductBadgePercentage\Pricing\Render\FinalPriceBox" />
+</config>
