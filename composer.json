@@ -7,20 +7,20 @@
         "kinuz/base": "^1.0.0"
     },
     "keywords": [
-        "magento 2",
-        "kinuz",
-        "product badge percentage",
-        "percentage",
-        "badge"
-      ],
-      "authors": [
-        {
-          "name": "Kevin Casasbuenas",
-          "email": "kincasasbuenas@outlook.com",
-          "homepage": "https://github.com/kincasasbuenas",
-          "role": "Adobe Commerce Developer"
-        }
-      ],
+      "magento 2",
+      "kinuz",
+      "product badge percentage",
+      "percentage",
+      "badge"
+    ],
+    "authors": [
+      {
+        "name": "Kevin Casasbuenas",
+        "email": "kincasasbuenas@outlook.com",
+        "homepage": "https://github.com/kincasasbuenas",
+        "role": "Adobe Commerce Developer"
+      }
+    ],
     "autoload": {
         "files": [
             "registration.php"
