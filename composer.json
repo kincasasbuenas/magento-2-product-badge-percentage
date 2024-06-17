@@ -2,7 +2,7 @@
     "name": "kinuz/product-badge-percentage",
     "description": "Allow show badge percentage in product item",
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "mit",
     "require": {
         "kinuz/base": "^1.0.0"
